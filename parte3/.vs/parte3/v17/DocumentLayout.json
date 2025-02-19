@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marro\\Desktop\\UMG\\3er semestre\\Programacion 1\\laboratorio2\\laboratorio2\\parte3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8271E3-002E-4EA6-AB1B-6210C7F90F39}|parte3\\parte3.csproj|c:\\users\\marro\\desktop\\umg\\3er semestre\\programacion 1\\laboratorio2\\laboratorio2\\parte3\\parte3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8271E3-002E-4EA6-AB1B-6210C7F90F39}|parte3\\parte3.csproj|solutionrelative:parte3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marro\\Desktop\\UMG\\3er semestre\\Programacion 1\\laboratorio2\\laboratorio2\\parte3\\parte3\\Program.cs",
+              "RelativeDocumentMoniker": "parte3\\Program.cs",
+              "ToolTip": "C:\\Users\\marro\\Desktop\\UMG\\3er semestre\\Programacion 1\\laboratorio2\\laboratorio2\\parte3\\parte3\\Program.cs",
+              "RelativeToolTip": "parte3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T03:35:32.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
